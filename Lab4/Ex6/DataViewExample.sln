@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataViewExample", "DataViewExample.csproj", "{DAB43A3F-BA45-44AF-A2C2-969681F0D9C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB43A3F-BA45-44AF-A2C2-969681F0D9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB43A3F-BA45-44AF-A2C2-969681F0D9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB43A3F-BA45-44AF-A2C2-969681F0D9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB43A3F-BA45-44AF-A2C2-969681F0D9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CF994AF-8E14-495C-95C5-C1ADC4099374}
+	EndGlobalSection
+EndGlobal
